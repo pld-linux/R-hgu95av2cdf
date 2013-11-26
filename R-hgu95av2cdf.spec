@@ -2,12 +2,12 @@
 
 Summary:	HG_U95Av2.CDF data file
 Name:		R-%{packname}
-Version:	2.11.0
+Version:	2.13.0
 Release:	1
 Group:		Applications/Engineering
 License:	LGPL v2+
 Source0:	http://www.bioconductor.org/packages/release/data/annotation/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	678ed562ed394d8a967501e840747a40
+# Source0-md5:	b9fc0840345f4372a4a3a11268f49e5e
 URL:		http://www.bioconductor.org/packages/release/data/annotation/html/hgu95av2cdf.html
 BuildRequires:	R-AnnotationDbi
 BuildRequires:	R
